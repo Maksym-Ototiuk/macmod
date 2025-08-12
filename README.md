@@ -8,6 +8,15 @@ A simple command-line tool to format MAC addresses in standard styles.
 - Outputs formatted MAC using `:`, `-`, or `.` separators.
 - Copies the formatted MAC to the clipboard automatically.
 
+
+## Installation
+
+To install the package, run:
+
+```
+pip install macmod
+```
+
 ## Usage
 
 ```

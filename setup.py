@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='macmod',
-    version='0.2.0',
+    version='0.2.1',
     description='A simple command-line tool to format MAC addresses in standard styles.',
     author='Maksym Ototiuk',
     author_email='mac@masik.slmail.me', 
