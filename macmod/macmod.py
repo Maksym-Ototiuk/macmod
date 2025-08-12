@@ -29,6 +29,10 @@ Examples:
 """
 
 def main(*args):
+    # Fet command line arguments when started as a pip module
+    if not args:
+        args = sys.argv[1:]
+    
     if len(args) != 2:
         print(doc)
         return
