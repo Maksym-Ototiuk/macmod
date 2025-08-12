@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='modmac',
-    version='0.1.0',
+    name='macmod',
+    version='0.2.0',
     description='A simple command-line tool to format MAC addresses in standard styles.',
     author='Maksym Ototiuk',
     author_email='mac@masik.slmail.me', 
